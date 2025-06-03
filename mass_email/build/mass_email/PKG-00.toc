@@ -1,0 +1,68 @@
+('C:\\Users\\tamhar\\OneDrive - Schou Company A '
+ 'S\\Personal\\python\\pythonProject\\build\\mass_email\\mass_email.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\build\\mass_email\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\build\\mass_email\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\build\\mass_email\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\build\\mass_email\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\build\\mass_email\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\build\\mass_email\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('mass_email',
+   'C:\\Users\\tamhar\\OneDrive - Schou Company A '
+   'S\\Personal\\python\\pythonProject\\mass_email.py',
+   'PYSOURCE')],
+ 'python312.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
