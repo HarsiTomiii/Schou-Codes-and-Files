@@ -102,6 +102,7 @@ Once completed:
 * SMTP authentication
 * Excel-based bulk email support
 * Success and error messages
+* create executable with `auto-py-to-exe` command
 
 ---
 
