@@ -60,6 +60,7 @@ Transforms valid URLs into Excel's `=IMAGE()` formula for embedded web rendering
 ## Notes
 - The formula-based method is faster but requires Excel support for `=IMAGE()`.
 - The download-based method provides more flexibility and consistent rendering.
+- The download-based method allows user to download it as a .pdf file and share it externally, while keeping the images.
 
 ---
 
