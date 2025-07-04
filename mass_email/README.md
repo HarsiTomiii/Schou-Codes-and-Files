@@ -32,7 +32,11 @@ Run the Python script:
 ```bash
 python bulk_email_sender.py
 ```
+Or you can run the executable:
 
+```bash
+output/mass_email.exe
+```
 ### 3. **Login**
 
 * Enter your **email address**, **password**, and the **From** email (typically same as login email).
