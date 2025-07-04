@@ -76,6 +76,7 @@ The Excel file must have the email addresses listed in **column A**, one per row
 ### 📄 HTML Template
 
 Any valid `.html` or `.htm` file. This will be used as the body of the email.
+You can create and save an email into a `.html` or `.htm` file and use that for the template.
 
 ---
 
