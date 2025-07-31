@@ -17,15 +17,7 @@ Each email is sent with the same subject and body, and optionally includes an at
 
 ## ✨ How to Use
 
-### 1. **Install Dependencies**
-
-Ensure you have the required Python libraries installed:
-
-```bash
-pip install openpyxl
-```
-
-### 2. **Run the Program**
+### **Run the Program**
 
 Run the Python script:
 
