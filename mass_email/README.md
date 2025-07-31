@@ -17,7 +17,7 @@ Each email is sent with the same subject and body, and optionally includes an at
 
 ## ✨ How to Use
 
-### **Run the Program**
+### 1. **Run the Program**
 
 Run the Python script:
 
@@ -29,22 +29,22 @@ Or you can run the executable:
 ```bash
 output/mass_email.exe
 ```
-### 3. **Login**
+### 2. **Login**
 
 * Enter your **email address**, **password**, and the **From** email (typically same as login email).
 * Click **Login** to proceed.
 
-### 4. **Select Files**
+### 3. **Select Files**
 
 * **HTML Template File**: The body of the email will use this HTML content.
 * **Excel File**: Should contain recipient emails in the **first column** starting from row 1.
 * **Attachment File** (optional): Any file you wish to send as an attachment with each email.
 
-### 5. **Set Subject**
+### 4. **Set Subject**
 
 You'll be prompted to enter the email subject line.
 
-### 6. **Confirm and Send**
+### 5. **Confirm and Send**
 
 A confirmation window summarizes your selections.
 
